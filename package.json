@@ -2,7 +2,7 @@
 	"name": "com.rasul.nav-mesh-components",
 	"version": "1.0.0",
 	"displayName": "Unity Navigation Mesh Components",
-	"description": "Unity awesome navigation mesh components, but as separate modular package.",
+	"description": "Unity awesome navigation mesh components, but as separate modular package. Original author of the implementation: Adrian Turcanu.",
 	"unity": "2019.1",
 	"keywords": [
 		"rasul",
@@ -11,7 +11,7 @@
 		"ai"
 	],
 	"author": {
-		"name": "Rasul Seidagul (original: Adrian Turcanu)",
+		"name": "Rasul Seidagul",
 		"url": "https://github.com/Nickpofig/unity-nav-mesh-components"
 	},
 	"hideInEditor": false
