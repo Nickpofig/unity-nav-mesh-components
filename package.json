@@ -1,18 +1,18 @@
 {
-  "name": "com.unity.nav-mesh-components",
-  "version": "0.0.1",
-  "displayName": "Unity Navigation Mesh Components",
-  "description": "Unity awesome navigation mesh components, but as separate modular package.",
-  "unity": "2019.1",
-  "keywords": [
-    "rasul",
-    "unity",
-    "navmesh",
-    "ai"
-  ],
-  "author": {
-    "name": "Adrian ?urcanu",
-    "url": "https://github.com/Unity-Technologies/NavMeshComponents"
-  },
-  "hideInEditor": false
+	"name": "com.rasul.nav-mesh-components",
+	"version": "1.0.0",
+	"displayName": "Unity Navigation Mesh Components",
+	"description": "Unity awesome navigation mesh components, but as separate modular package.",
+	"unity": "2019.1",
+	"keywords": [
+		"rasul",
+		"unity",
+		"navmesh",
+		"ai"
+	],
+	"author": {
+		"name": "Rasul Seidagul (original: Adrian Turcanu)",
+		"url": "https://github.com/Nickpofig/unity-nav-mesh-components"
+	},
+	"hideInEditor": false
 }
